@@ -148,5 +148,7 @@ int main() {
 
     // Terminate GLFW
     glfwTerminate();
+    return 1;
     return 0;
 }
+
